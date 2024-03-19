@@ -1,4 +1,4 @@
 build
 temp
-output/*
-data/*
+output
+data
